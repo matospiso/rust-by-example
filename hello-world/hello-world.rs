@@ -5,9 +5,9 @@ fn main() {
     // statements here are executed when the compiled binary is called
 
     // print text to stdout
-    println!("Hello World"); // don't forget semicolons
+    println!("Hello World");
     // `println!` is a macro
-    println!("printing is easy")
+    println!("printing is easy");
 }
 
 // compiling using Rust compiler `rustc`:
