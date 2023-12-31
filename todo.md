@@ -1,0 +1,2 @@
+- [ ] [1.2.2 Display](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display.html)
+- [ ] [1.2.3 Testcase: List](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display/testcase_list.html)
